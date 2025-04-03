@@ -41,6 +41,7 @@ Start the server:
 npm start
 
 API Endpoints:-
+
 ![image](https://github.com/user-attachments/assets/427a60d3-d07e-4e82-8905-eed497ec484d)
 ![image](https://github.com/user-attachments/assets/aa8dbaeb-3542-45d6-a606-5116c798515f)
 ![image](https://github.com/user-attachments/assets/829fa96c-c81e-4029-8353-ad8f293a0761)
